@@ -23,4 +23,4 @@ A Python CLI tool to chat with the Codestral model, supporting multi-lines input
 
 ## Requirements
 
-- Make sure the `requests` library is installed, if not run the commmand `pip install requests`.
+- Make sure the `requests` library is installed, if not, run the commmand `pip install requests`.
