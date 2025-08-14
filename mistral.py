@@ -28,7 +28,7 @@ while True:
     messages.append({"role": "user", "content": user_input})
 
     payload = {
-        "model": "codestral-2501",
+        "model": "codestral-latest",
         "messages": messages
     }
 
